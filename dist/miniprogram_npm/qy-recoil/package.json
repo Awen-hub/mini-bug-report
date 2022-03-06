@@ -1,0 +1,9 @@
+{
+  "name": "qy-recoil",
+  "version": "0.0.12",
+  "main": "index.js",
+  "miniprogram": ".",
+  "dependencies": {
+    "jsx2mp-runtime": "^0.4.8"
+  }
+}

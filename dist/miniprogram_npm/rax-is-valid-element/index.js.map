@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":[],"mappings":";;;;;;;AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"index.js","sourcesContent":["\n\nexports.__esModule = true;\nexports.default = isValidElement;\n\nfunction isValidElement(object) {\n  return typeof object === 'object' && object !== null && object.type && object.props;\n}"]}

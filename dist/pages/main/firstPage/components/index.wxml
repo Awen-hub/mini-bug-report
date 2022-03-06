@@ -1,0 +1,3 @@
+<block wx:if="{{$ready}}"><view>
+      Hello World!
+      <view><button bindtap="_e0">to Second</button></view></view></block>

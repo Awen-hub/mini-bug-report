@@ -1,0 +1,1 @@
+import"./utils/index";import"./store/index";App({onLaunch(){},onShow(){},onHide(){}});
